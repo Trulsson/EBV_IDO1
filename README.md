@@ -1,7 +1,8 @@
 # EBV_IDO1
 Volcano and Heatmap generation from Transcriptome data 2 days post infection.
 
-Part of publication titles:
+Part of publication titled:
+
 A metabolic vulnerability of EBV can be targeted to prevent viral pathology.
 
 In brief, RNA sequencing was done in paired-end mode on an Illumina NextSeq 500 with 38 cycles. The raw reads were aligned against the NCBI human GRCh38 assembly using STAR version 2.7.9a in paired-end mode.
